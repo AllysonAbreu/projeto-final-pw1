@@ -1,0 +1,5 @@
+django==3.2.7
+django-autoslug==1.9.8
+django-model-utils==4.1.0
+ipython==7.19.0
+pillow==8.0.1

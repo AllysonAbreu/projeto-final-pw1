@@ -4,3 +4,5 @@ django-model-utils==4.1.0
 ipython==7.19.0
 pillow==8.0.1
 django-widget-tweaks==1.4.8
+django-crispy-forms==1.11.0
+django-localflavor==3.0.1
